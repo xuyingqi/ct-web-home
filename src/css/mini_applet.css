@@ -1,0 +1,118 @@
+.ct-banner-container {
+    width: 100%;
+    height: 420px;
+    border-bottom: 1px solid #ddd;
+}
+.ct-banner-container .ct-banner-top-content {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://b.yzcdn.cn/static/intro/img/xiaochengxu/topbanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+.ct-banner-container .ct-banner-inner-text {
+    margin: 0 auto;
+    width: 1100px;
+}
+.ct-banner-container .ct-banner-title {
+    padding-top: 129px;
+    font-size: 30px;
+    color: #333;
+    line-height: 26px;
+}
+.ct-banner-container .ct-banner-sub-title {
+    padding-top: 20px;
+    font-size: 16px;
+    color: #666;
+    line-height: 20px;
+}
+.ct-banner-container .ct-banner-action {
+    display: block;
+    margin-top: 50px;
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    background: #38f;
+    color: #fff;
+    letter-spacing: .5px;
+    text-align: center;
+    border-radius: 2px;
+}
+.ct-banner-container .ct-banner-note {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #666;
+    line-height: 20px;
+}
+
+
+
+.ct-container-box{
+    width: 1170px;
+    margin: 0 auto;
+}
+.content-title{
+    padding: 50px 0 50px 20px;
+}
+.content-box{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.content-box li{
+    width: 22%;
+    height: 120px;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+.content-box li>div{
+    width: 100%;
+    height: 100%;
+    transition: all .5s;
+    transform: translate(0,120px);
+}
+.content-box li>i{
+    position: absolute;
+    left: 0;
+    top: 25px;
+    width: 60px;
+    height: 70px;
+    background: url(../images/index-four.png) no-repeat 0 0;
+}
+.content-box li h3{
+    font-size: 18px;
+    transition: all .5s;
+    transform: translate(0, -70px);
+}
+.content-box li p{
+    font-size: 14px;
+    color: #fff;
+    text-align: justify;
+    text-indent: 2em;
+    transition: all .5s;
+    transform: translate(0,300px);
+    padding: 0 20px;
+}
+.content-box li:hover div{
+    background: #ff8000;
+    opacity: 0.6;
+    transform: translate(0, 0);
+}
+.content-box li:hover i{
+    background: url(../images/index-four.png) no-repeat 0 -79px;
+}
+
+.content-box li:hover h3{
+    color:#fff;
+    transform: translate(0,-95px);
+}
+.content-box li:hover p{
+    transform: translate(0,-80px);
+}
