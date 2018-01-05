@@ -25,6 +25,10 @@ a{
     color:#666;
     text-decoration: none;
 }
+a:hover{
+    color:#666;
+    text-decoration: none!important;
+}
 .fl{
     float: left;
 }
