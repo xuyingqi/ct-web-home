@@ -4,7 +4,12 @@
   "description": "ct-web-home",
   "main": "index.js",
   "dependencies": {
+    "babel-core": "^6.26.0",
+    "browser-sync": "^2.23.3",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-html-minify": "0.0.14",
     "jshint": "^2.9.4"
   },
   "devDependencies": {

@@ -248,7 +248,7 @@
 }
 .ct-item-text{
     position: absolute;
-    left: 8px;
+    left: 24px;
     top: 60px;
 }
 
@@ -390,3 +390,72 @@
 .module-box li:hover i{
     display: block;
 }
+
+
+/*start:他们都在使用微信小程序*/
+.ct-section {
+    margin: 0 auto;
+    width: 1170px;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ct-users {
+    margin-top: 69px;
+    text-align: center;
+}
+.ct-users-title {
+    width: 500px;
+    height: 36px;
+    background-size: 380px 36px;
+}
+.ct-section>div{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ct-users-title {
+    font-size: 20px;
+    color: #676B6F;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+.ct-section>div{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ct-users-list {
+    margin-top: 66px;
+}
+.ct-users .users-list-row {
+    margin: 50px;
+    display: inline-block;
+}
+.ct-users .ct-users-logo {
+    display: inline-block;
+    width: 208px;
+    height: 80px;
+    line-height: 80px;
+    vertical-align: top;
+}
+.ct-users .ct-users-logo-r1c1 {
+    background-image: url(../images/users_logo_01.jpg);
+
+}
+.ct-users .ct-users-logo-r1c2 {
+    background-image: url(../images/users_logo_02.jpg);
+    background-size: 208px 81px;
+}
+.ct-users .ct-users-logo-r1c3 {
+    background-image: url(../images/users_logo_03.jpg);
+    background-size: 208px 81px;
+}
+.ct-users .ct-users-logo-r1c4 {
+    background-image: url(../images/users_logo_04.jpg);
+    background-size: 208px 81px;
+}
+.ct-users .ct-users-logo-r1c5 {
+    background-image: url(../images/users_logo_05.jpg);
+    background-size: 208px 81px;
+}
+
