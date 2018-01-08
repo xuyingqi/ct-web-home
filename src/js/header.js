@@ -38,7 +38,7 @@ document.writeln("                <li id=\'solution-dropdown\'>");
 document.writeln("                    <a href=\'website.html\' target='_blank'>网站建设</a>");
 document.writeln("                </li>");
 document.writeln("                <li><a href=\'javascript:void(0)\'>微信社交广告</a></li>");
-document.writeln("                <li><a href=\'javascript:void(0)\'>APP开发</a></li>");
+document.writeln("                <li><a href=\'app.html\'>APP开发</a></li>");
 document.writeln("                <li><a href=\'javascript:void(0)\'>关于我们</a></li>");
 document.writeln("            </ul>");
 document.writeln("        </div>");
