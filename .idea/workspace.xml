@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10086056-084b-4833-a8e6-98812fcd689e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/解决方案.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/website.css" afterPath="$PROJECT_DIR$/build/css/website.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/header.js" afterPath="$PROJECT_DIR$/build/js/header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/header.js" afterPath="$PROJECT_DIR$/src/js/header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/index.less" afterPath="$PROJECT_DIR$/src/less/index.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/website.less" afterPath="$PROJECT_DIR$/src/less/website.less" />
-    </list>
+    <list default="true" id="10086056-084b-4833-a8e6-98812fcd689e" name="Default" comment="" />
     <ignored path="ct-web-home.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,7 +112,7 @@
       <file leaf-file-name="app.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/less/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="199">
               <caret line="164" column="15" lean-forward="false" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
               <folding>
                 <element signature="e#11#238#0" expanded="false" />
@@ -359,12 +350,12 @@
       <workItem from="1515215732812" duration="22556000" />
       <workItem from="1515380561954" duration="1619000" />
       <workItem from="1515382470061" duration="1681000" />
-      <workItem from="1515387333736" duration="3004000" />
+      <workItem from="1515387333736" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79329000" />
+    <option name="totallyTimeSpent" value="79366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -741,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/less/app.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="199">
           <caret line="164" column="15" lean-forward="false" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
           <folding>
             <element signature="e#11#238#0" expanded="false" />
