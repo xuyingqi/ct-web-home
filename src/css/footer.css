@@ -1,0 +1,46 @@
+footer {
+    width: 100%;
+    min-width: 1100px;
+    height: auto;
+    background-color: #373D44;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+footer .footer-container {
+    margin: 0 auto;
+    width: 1100px;
+    overflow: hidden;
+}
+footer .footer-container .footer-about {
+    margin-top: 40px;
+    /*border-top: 1px solid rgba(229,229,229,0.2);*/
+    padding-top: 70px;
+    zoom: 1;
+}
+footer .footer-container .footer-about .footer_ {
+    float: left;
+    margin-right: 72px;
+}
+footer .footer-container .footer-about .footer_ h3 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 31px;
+}
+footer .footer-container .footer-about .footer_ p {
+    font-size: 14px;
+    color: #E5E5E5;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+footer .footer-container .footer-about a {
+    text-decoration: none;
+    color: #E5E5E5;
+    letter-spacing: 0.58px;
+}
+footer .footer-container .footer-about .product a {
+    display: inline-block;
+    width: 95px;
+}
+footer .footer-container .footer-about .footer_:last-child {
+    margin-right: 0px;
+}
